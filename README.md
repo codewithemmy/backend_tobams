@@ -6,7 +6,7 @@
 # How Navigate
 ## The Scr Folder Contains the major functionality. Other folders entails set up and configuration
 ### Inside the Src folder, the files folder contains the image CRUD
-### the Image Upload Folder contails the files modularization that has the interface, Schema, Repository, Services, Controller, and route that Connects to express
+### the Image Upload Folder contains the files modularization that has the interface, Schema, Repository, Services, Controller, and route that Connects to express
 #### Interface is the type interface using typescript and it's configuration
 #### The Schema is the blueprint for the type of inflow of data type into the database
 #### The repository takes in the structure based on the login before hitting the Schema.
@@ -14,9 +14,9 @@
 #### Controllers takes the asynchronous request and response
 
 ## Util folder
-### the utils folder is charge of every uitlity function or helper function needed in the services
+### the utils folder is charge of every utility function or helper function needed in the services
 
-## Other folder configuation for express, typscript and the database. Also contains general error handing in the core folder
+## Other folder configuration for express, typescript and the database. Also contains general error handing in the core folder
 
 ### Thank you
 
