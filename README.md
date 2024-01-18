@@ -1,5 +1,7 @@
 # Image Crud
-## Tech Stack: TypeScript, Node, Express, MongoDB etc
+## Tech Stack: TypeScript, Node, Express, MongoDB 
+
+##### use "npm install" to run and install
 
 # How Navigate
 ## The Scr Folder Contains the major functionality. Other folders entails set up and configuration
