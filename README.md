@@ -3,7 +3,7 @@
 
 ##### use "npm install" to run and install
 
-# How Navigate
+# How to Navigate
 ## The Scr Folder Contains the major functionality. Other folders entails set up and configuration
 ### Inside the Src folder, the files folder contains the image CRUD
 ### the Image Upload Folder contains the files modularization that has the interface, Schema, Repository, Services, Controller, and route that Connects to express
