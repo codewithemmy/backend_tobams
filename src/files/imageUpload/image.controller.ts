@@ -22,6 +22,7 @@ class ImageController {
     const [error, data] = await manageAsyncOps(
       ImageService.getImage(req.query)
     );
+    
     if (error) return next(error);
     if (!data?.success) return next(new CustomError(data!.msg, 400, data!));
 
